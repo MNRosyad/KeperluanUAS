@@ -45,7 +45,6 @@ public class MainActivity2 extends AppCompatActivity {
                 count += 1;
             } else if (count == 2) {
                 animateFadeOut(imageView);
-                count = 0;
             }
         });
 
